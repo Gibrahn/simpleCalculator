@@ -1,5 +1,19 @@
+
 header{
+    font-size: 22px;
+    display: flex;
+    margin: auto;
     background-color: cadetblue;
     color: black;
+    align-items: center;
+    height: 50px;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+body {
+    background-color: darkgray;
+}
+main{
     text-align: center;
 }
